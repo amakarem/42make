@@ -67,12 +67,18 @@ This project leverages **Make.com** webhooks and workflows to act as a full-stac
 
 ---
 
+### 6. Create Job by partner or staff workflow
+
+- this work the same as Application workflow.
+- to test it after login as student in console log run fakeit()
+---
+
 ## 🛠️ Tech Stack
 
 - **Platform**: [Make.com](https://www.make.com)
 - **OAuth**: 42 Intra API
 - **Frontend**: HTML/JS served via Make.com webhook responses
-- **Data Store**: Google Sheets
+- **Data Store**: 42 Intra API, Google Sheets
 - **No backend**, **no web hosting**, 100% Make.com-powered.
 
 ---
