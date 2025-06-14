@@ -5,6 +5,10 @@
 **42make** is a fully no-code solution built entirely on [Make.com](https://www.make.com), developed during the Make.com & 42 School Hackathon. This project showcases how complex OAuth authentication and API interaction can be achieved without writing a single line of backend code or hosting any web pages.
 
 ---
+**Test URL** [42Make](https://hook.eu2.make.com/4yvw15bvak7v9gdb7vntpn6nomr9itpi)
+- it's also mobile frindly
+- [QR Code](./images/qr.jpg)
+---
 
 ## 🧠 How It Works
 
