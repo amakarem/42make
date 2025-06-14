@@ -7,7 +7,7 @@
 ---
 **Test URL** [42Make](https://hook.eu2.make.com/4yvw15bvak7v9gdb7vntpn6nomr9itpi)
 - it's also mobile frindly
-- ![QR Code](./images/qr.jpg)
+- ![QR Code](./images/qr.jpg?v=2)
 ---
 
 ## 🧠 How It Works
